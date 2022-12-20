@@ -77,9 +77,9 @@ async function readRequestBody(request) {
     <body>
     <h2>SpamChannel Tester</h1>
   
-    <p>For more info see this blog post</p>
+    <p>For more info see this blog post. The code for this Cloudflare Worker is <a href="https://github.com/byt3bl33d3r/SpamChannel">here</a>.</p>
   
-    <p>Use the below form to send an email and test if a domain is misconfigured.</p>
+    <p>Use the below form to send an email and test if a domain using MailChannels is misconfigured and can be impersonated.</p>
     <br>
   
     (*) is required
