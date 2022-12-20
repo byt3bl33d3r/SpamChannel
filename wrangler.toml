@@ -1,0 +1,3 @@
+name = "spamchannel"
+compatibility_date = "2022-12-20"
+main = "index.js"
