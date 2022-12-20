@@ -76,9 +76,9 @@ async function readRequestBody(request) {
   
     <body>
     <h2>SpamChannel Tester</h1>
-  
-    <p>For more info see this blog post. The code for this Cloudflare Worker is <a href="https://github.com/byt3bl33d3r/SpamChannel">here</a>.</p>
-  
+
+    <p>For more info see <a href="">this blog post</a>. The code for this Cloudflare Worker is <a href="https://github.com/byt3bl33d3r/SpamChannel">here</a>.</p>
+
     <p>Use the below form to send an email and test if a domain using MailChannels is misconfigured and can be impersonated.</p>
     <br>
   
@@ -112,7 +112,10 @@ async function readRequestBody(request) {
     <br>
   
     <h3>... or do it programmatically</h3>
-  
+    
+    <p>For a complete list of options see the MailChannels <a href="https://api.mailchannels.net/tx/v1/documentation">Transactional API docs</a>.</p>
+    <p>The below examples will send a spoofed email from churchofsatan.com.</p>
+    <br>
     <p>Curl:</p>
     <div style="width:50em">
     <pre>
@@ -128,7 +131,7 @@ curl -X POST \\
       "email" : "my@email.com"
   }]}],
   "from": { "email":"lucifer@churchofsatan.com", "name": "Lucifer"},
-  "subject" : "subject",
+  "subject" : "Hell is hot",
   "content" : [{
     "type" : "text/plain",
     "value" : "Send aircon hot af down here"
