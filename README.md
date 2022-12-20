@@ -1,6 +1,6 @@
 # SpamChannel CF Worker
 
-https://spamchannel.haxxx.worker.dev
+https://spamchannel.haxxx.workers.dev
 
 Spoof emails from domains using MailChannels. For more info see [this blogpost]().
 
