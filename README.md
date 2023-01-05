@@ -6,7 +6,7 @@ Spoof emails from domains using MailChannels. For more info see [this blogpost](
 
 ## How to deploy
 
-1. Signup and create a free account on cloudflare
+1. Signup and create a free account on Cloudflare (https://dash.cloudflare.com/sign-up)
 2. Clone this repo
 3. Install Wrangler CLI tool (`npm i -g wrangler`)
 4. Run `wrangler login` and login to your account
