@@ -8,7 +8,7 @@ This allows you to spoof emails from any of the +2 Million domains using MailCha
 
 It was released at the Defcon 31 talk [SpamChannel: Spoofing Emails From 2 Million+ Domains and Virtually Becoming Satan](https://forum.defcon.org/node/245722).
 
-# I'm a MailChannels customer, how do I stop people from impersonating my domain?
+## I'm a MailChannels customer, how do I stop people from impersonating my domain?
 
 TL;DR set your [Domain Lockdown Record](https://support.mailchannels.com/hc/en-us/articles/16918954360845) ASAP.
 
