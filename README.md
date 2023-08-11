@@ -4,7 +4,7 @@ Live worker hosted at https://spamchannel.haxxx.workers.dev
 
 ## What is this
 
-This allows you to spoof emails from any of the +2 Million domains using MailChannels. It also gives you a slightly higher chance of landing a spoofed emails from any domain that doesn't have an SPF & DMARC due to [ARC](https://www.rfc-editor.org/rfc/rfc8617.html#) adoption.
+As of writing, This allows you to spoof emails from any of the +2 Million domains using MailChannels. It also gives you a slightly higher chance of landing a spoofed emails from any domain that doesn't have an SPF & DMARC due to [ARC](https://www.rfc-editor.org/rfc/rfc8617.html#) adoption.
 
 It was released at the Defcon 31 talk [SpamChannel: Spoofing Emails From 2 Million+ Domains and Virtually Becoming Satan](https://forum.defcon.org/node/245722).
 
