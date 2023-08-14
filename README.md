@@ -2,7 +2,7 @@
 
 Live worker hosted at https://spamchannel.haxxx.workers.dev
 
-**UPDATE (Aug 13 2023): Two days after my DEFCON 31 talk, MailChannels silently decided to require a [Domain Lockdown Record](https://support.mailchannels.com/hc/en-us/articles/16918954360845) in order to send emails from Cloudflare Workers meaning this code doesn't work anymore. However because they just addressed a "symptom" and not the underlying issue (lack of sender idenitity verification) anyone can still signup on their website (80$) and use their "normal" SMTP relay to spoof all of their customer domains 🤷🏻‍♂️**
+**UPDATE (Aug 13 2023): Two days after my DEFCON 31 talk, MailChannels silently decided to require a [Domain Lockdown Record](https://support.mailchannels.com/hc/en-us/articles/16918954360845) in order to send emails from Cloudflare Workers meaning this code doesn't work anymore. However, because they just addressed a "symptom" and not the underlying issue (lack of sender idenitity verification) anyone can still signup on their website (80$) and use their "normal" SMTP relay to spoof all of their customer domains 🤷🏻‍♂️**
 
 ## What is this
 
