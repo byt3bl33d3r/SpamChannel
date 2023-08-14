@@ -10,6 +10,8 @@ As of writing, This allows you to spoof emails from any of the +2 Million domain
 
 It was released at the Defcon 31 talk [SpamChannel: Spoofing Emails From 2 Million+ Domains and Virtually Becoming Satan](https://forum.defcon.org/node/245722).
 
+Slides for the talk are [here](https://github.com/byt3bl33d3r/Slides/blob/master/Defcon31_SpamChannel_Spoofing_Emails_from_2M_Domains.pdf)
+
 ## I'm a MailChannels customer, how do I stop people from impersonating my domain?
 
 TL;DR set your [Domain Lockdown Record](https://support.mailchannels.com/hc/en-us/articles/16918954360845) ASAP.
