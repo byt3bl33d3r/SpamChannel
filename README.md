@@ -16,6 +16,10 @@ Slides for the talk are [here](https://github.com/byt3bl33d3r/Slides/blob/master
 
 TL;DR set your [Domain Lockdown Record](https://support.mailchannels.com/hc/en-us/articles/16918954360845) ASAP.
 
+## Defcon Talk
+
+[![Defcon 31 Talk](https://img.youtube.com/vi/NwnT15q_PS8/0.jpg)](https://youtu.be/NwnT15q_PS8)
+
 ## Demos
 
 Below are the demos from my Defcon talk demonstrating email spoofing using this Cloudflare Worker.
